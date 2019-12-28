@@ -1,3 +1,5 @@
 This is a new test from master
 
 And this should be ok.
+
+This is a new feature, called feature one.
